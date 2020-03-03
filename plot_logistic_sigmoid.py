@@ -1,8 +1,8 @@
 #%%
+import numpy as np
 from mpl_toolkits.mplot3d import axes3d
 import matplotlib.pyplot as plt
 from matplotlib import cm
-import numpy as np
 
 w1 = 2 # e.g. 0, 2, 
 w2 = 3 # e.g. 0, 3,
