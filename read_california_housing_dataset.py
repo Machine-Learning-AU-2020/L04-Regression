@@ -49,7 +49,7 @@ plt.show()
 
 #%%
 
-plt.hist(residual_values)
+plt.hist(residual_values, bins=600)
 plt.title("Histogram of residual values")
 plt.xlabel("Residual")
 plt.ylabel("Median income")
